@@ -2,7 +2,6 @@
 using ApiAuth.Models.Requests;
 using ApiAuth.Repositories;
 using ApiAuth.Services;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.Tokens;
 using System.Security.Claims;
